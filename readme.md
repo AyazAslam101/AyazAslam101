@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ayaz , a full-time Frontend freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Ayaz ,Frontend freelance developer 👨‍💻</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
